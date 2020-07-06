@@ -6,7 +6,7 @@ public class GitClass {
 
 		System.out.println("birinci commit");
 		
-		
+		System.out.println("remote da burinci i commit");	
 	}
 
 }
