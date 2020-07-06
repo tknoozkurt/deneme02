@@ -6,8 +6,13 @@ public class GitClass {
 
 		System.out.println("birinci commit");
 
+
 		System.out.println("locade da burinci i commit");
 		
+
+		
+		System.out.println("remote hos geldi da burinci i commit");	
+ 
 	}
 
 }
