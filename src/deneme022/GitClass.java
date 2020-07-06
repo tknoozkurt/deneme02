@@ -12,7 +12,7 @@ public class GitClass {
 
 		
 		System.out.println("remote hos geldi da burinci i commit");	
-        System.out.println("master feature satasacak");
+        System.out.println("feature burasi ");
 	}
 
 }
